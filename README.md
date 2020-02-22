@@ -4,7 +4,7 @@ This another one of my program wrote for CS50x Pset2 on edX in C. What it does i
 ## Usage
 ```
 $ make caesar
-$ ./caesar key //key being any integers
+$ ./caesar key #key being any integers
 ```
 
 ## What I have learned

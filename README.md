@@ -4,7 +4,7 @@ This another one of my program wrote for CS50x Pset2 on edX in C. What it does i
 ## Usage
 ```
 $ make caesar
-$ ./caesar key [hi](Comment text goes here)
+$ ./caesar key [comment]: <asdfsdafsadfa> (This is a comment, it will not be included)
 ```
 
 ## What I have learned
